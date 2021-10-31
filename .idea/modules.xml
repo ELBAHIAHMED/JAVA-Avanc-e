@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/tp2_java_avancée/tp2_java_avancée.iml" filepath="$PROJECT_DIR$/tp2_java_avancée/tp2_java_avancée.iml" />
       <module fileurl="file://$PROJECT_DIR$/tp_2_java_avancée.iml" filepath="$PROJECT_DIR$/tp_2_java_avancée.iml" />
     </modules>
   </component>

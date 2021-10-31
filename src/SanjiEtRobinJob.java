@@ -10,7 +10,7 @@ public class SanjiEtRobinJob implements Runnable{
 
 
     }
-    public void demandeRetrait(int somme){
+    public synchronized void demandeRetrait(int somme){
         if (somme>this.compte.getSolde()){
             System.out.println("Pas assez d’argent pour "+Thread.currentThread().getName());
         }
